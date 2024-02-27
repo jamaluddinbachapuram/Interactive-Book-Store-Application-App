@@ -1,0 +1,21 @@
+.book-details {
+  padding: 20px;
+}
+
+.book-details h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.book-details div {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.book-details h3 {
+  margin-bottom: 10px;
+}
+
+.book-details p {
+  margin-bottom: 10px;
+}

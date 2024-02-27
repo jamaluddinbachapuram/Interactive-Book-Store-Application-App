@@ -1,0 +1,26 @@
+.book-listing {
+  padding: 20px;
+}
+
+.book-listing h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.book-listing ul {
+  list-style: none;
+  padding: 0;
+}
+
+.book-listing li {
+  margin-bottom: 20px;
+}
+
+.book-listing li a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.book-listing li a:hover {
+  text-decoration: underline;
+}
